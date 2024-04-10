@@ -45,6 +45,5 @@ const onSignIn = async () => {
   if (valid) {
     router.push({ path: "/home" });
   }
-  //test
 };
 </script>
